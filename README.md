@@ -12,4 +12,4 @@ OuiSync is a free and open source tool enabling file sync and backups between de
 
 ### Support or Contact
 
-Contact the OuiSync team at ouisync [at] equlit [dot] ie to learn more!
+Contact the OuiSync team at ouisync [at] equalit [dot] ie to learn more!
