@@ -1,4 +1,5 @@
 theme: jekyll-theme-minimal
 title: OuiSync: Secure file-sharing and real-time sync, with or without internet
+favicon: true
 logo: /assets/img/favicon-32x32.png
 description: OuiSync is a free and open source tool enabling file sync and backups between devices, peer-to-peer.
