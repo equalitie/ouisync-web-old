@@ -16,4 +16,4 @@ OuiSync is currently in Alpha, which means some functionality and features are n
 
 ### Support or Contact
 
-Contact the OuiSync team at ouisync [at] equalit [dot] ie to learn more!
+Contact the OuiSync team at ouisync [at] equalit [dot] ie for support or just to get in touch.
