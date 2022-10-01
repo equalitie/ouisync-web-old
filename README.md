@@ -12,7 +12,7 @@ OuiSync is a free and open source tool enabling file sync and backups between de
 
 ### Status
 
-OuiSync is currently in Alpha, which means some functionality and features are not yet working. If you install OuiSync, please be sure to update regularly as each update will contain significant fixes!
+OuiSync is currently in Beta, which means some functionality and features are not yet working. If you install OuiSync, please be sure to update regularly as each update will contain significant fixes!
 
 ### Support or Contact
 
