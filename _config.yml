@@ -4,3 +4,4 @@ favicon: true
 logo: /assets/img/logo.png
 description: Secure file-sharing and real-time sync, with or without internet.
 include: [".well-known"]
+lang: en
