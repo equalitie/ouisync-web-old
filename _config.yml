@@ -5,10 +5,14 @@ logo: /assets/img/logo.png
 description: Secure file-sharing and real-time sync, with or without internet.
 include: [".well-known"]
 lang: en
-
+url: https://ouisync.net
 plugins:
   - jekyll-polyglot
 
+# Permalinks
+permalink: pretty
+  
+# i18n
 languages: ["en", "es", "fa", "fr"]
 default_lang: "en"
 exclude_from_localization: ["javascript", "images", "css", "public"]
